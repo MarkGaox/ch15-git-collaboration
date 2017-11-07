@@ -1,3 +1,4 @@
+MARK SUCKS AT R HE PLAGIARIZES
 # Exercise-1
 In this exercise, you'll practice creating a repository, adding collaborators, and integrating the work of others through `merging`. You should work in groups of two or more.
 
